@@ -4,7 +4,7 @@ import os
 import urllib
 import time
 #__\\n__ - enter in text
-
+#asdasdas
 SAVE_photos = True
 VK = ""
 person = "id17326"
